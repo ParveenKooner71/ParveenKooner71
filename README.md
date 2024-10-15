@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me through parveenkooner71@gmail.com or +91-9878090062
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: I love playing cricket & Vollyball
+- ⚡ Fun fact: I love playing cricket & Volleyball
 
 <!---
 ParveenKooner71/ParveenKooner71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
