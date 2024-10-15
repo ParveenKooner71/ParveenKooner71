@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Parveen Kumar
-- 👀 I’m interested in Pyhton Programming
+- 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Data Analytics and AI Machine Learning
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me through parveenkooner71@gmail.com or +91-9878090062
